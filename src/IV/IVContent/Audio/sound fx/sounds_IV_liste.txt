@@ -1,0 +1,46 @@
+All sound FXs 
+------------
+Game Play  : 
+------------
+enemies : 
+x- Enemie Explosion 
+x- ( plasma , shorton , lasper ) levitation sound 
+x- palsma shoot 
+x- plasma charge
+x- mashine gun shoot 
+x- laser camera 
+x- shorton shoot 
+x- laspersky shoot
+//- viruses sound 
+------------
+player sound :
+x- jump / double jump  / speed 
+x- messil launch 
+x- messil exploz
+x- sero 
+x- death_electrify
+x- fall down  
+x- push violance 
+x- Button activation
+x- rockette_ammo
+-------------
+Menu sounds : 
+x- selct button 
+x- chose button 
+x- retourn sound (echape ) 
+x- options change
+-------------
+Level Sounds :
+x- elevator
+LVL 1 : 
+	x- door_slam	
+	x- Diod electrique sounds
+LVL 2 : 
+	-bra sound
+LVL 3 : 
+	- break wal files
+	x- break_down_wall	
+LVL 4 : 
+	x- whell sounds
+	x- alarm_sound
+x- LVL 5 :

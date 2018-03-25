@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IV", "IV\IV\IV.csproj", "{D2996B19-DB5B-4141-9CB9-14CBE23E1166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IVContent", "IV\IVContent\IVContent.contentproj", "{A4DEBCCD-563F-4B27-9A16-A5718CB1DEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinnedModelPipeline", "SkinnedModelPipeline\SkinnedModelPipeline.csproj", "{BE61F550-6491-4A37-96D7-87CB5AC2CAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinnedModel", "SkinnedModel\SkinnedModel.csproj", "{06032A32-8912-4870-B153-160C9C95935C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2996B19-DB5B-4141-9CB9-14CBE23E1166}.Debug|x86.ActiveCfg = Debug|x86
+		{D2996B19-DB5B-4141-9CB9-14CBE23E1166}.Debug|x86.Build.0 = Debug|x86
+		{D2996B19-DB5B-4141-9CB9-14CBE23E1166}.Release|x86.ActiveCfg = Release|x86
+		{D2996B19-DB5B-4141-9CB9-14CBE23E1166}.Release|x86.Build.0 = Release|x86
+		{A4DEBCCD-563F-4B27-9A16-A5718CB1DEAF}.Debug|x86.ActiveCfg = Debug|x86
+		{A4DEBCCD-563F-4B27-9A16-A5718CB1DEAF}.Release|x86.ActiveCfg = Release|x86
+		{BE61F550-6491-4A37-96D7-87CB5AC2CAFF}.Debug|x86.ActiveCfg = Debug|x86
+		{BE61F550-6491-4A37-96D7-87CB5AC2CAFF}.Debug|x86.Build.0 = Debug|x86
+		{BE61F550-6491-4A37-96D7-87CB5AC2CAFF}.Release|x86.ActiveCfg = Debug|x86
+		{BE61F550-6491-4A37-96D7-87CB5AC2CAFF}.Release|x86.Build.0 = Debug|x86
+		{06032A32-8912-4870-B153-160C9C95935C}.Debug|x86.ActiveCfg = Debug|x86
+		{06032A32-8912-4870-B153-160C9C95935C}.Debug|x86.Build.0 = Debug|x86
+		{06032A32-8912-4870-B153-160C9C95935C}.Release|x86.ActiveCfg = Release|x86
+		{06032A32-8912-4870-B153-160C9C95935C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

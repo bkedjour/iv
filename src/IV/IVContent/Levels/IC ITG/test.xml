@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<LevelInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Properties />
+  <Destroyers />
+  <Death />
+  <Enemies />
+  <IVPosition>
+    <X>10.3335257</X>
+    <Y>5.13498259</Y>
+    <Z>50.303936</Z>
+  </IVPosition>
+  <LevelScale>0</LevelScale>
+  <IVRightDirection>false</IVRightDirection>
+  <Buttons />
+  <Lasers />
+  <MachinGuns />
+  <PlasmaGuns />
+  <CheckPoints />
+  <TurningDoors />
+  <Sliders />
+  <SlidersTurners />
+  <AutoSliders />
+  <Objectives>
+    <GetWayPusherInfo>
+      <Position>
+        <X>0</X>
+        <Y>5</Y>
+        <Z>30</Z>
+      </Position>
+      <Dimention>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+      </Dimention>
+      <ID>2</ID>
+    </GetWayPusherInfo>
+  </Objectives>
+</LevelInfo>

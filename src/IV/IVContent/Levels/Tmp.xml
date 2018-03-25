@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<LevelInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Properties />
+  <Destroyers />
+  <Death />
+  <Enemies />
+  <IVPosition>
+    <X>-20.63712</X>
+    <Y>30.9895668</Y>
+    <Z>47.6458435</Z>
+  </IVPosition>
+  <LevelScale>0</LevelScale>
+  <IVRightDirection>false</IVRightDirection>
+  <Buttons />
+  <Lasers />
+  <MachinGuns />
+  <PlasmaGuns />
+  <CheckPoints />
+  <TurningDoors />
+  <Sliders />
+  <Bricks>
+    <EntityInfo>
+      <Position>
+        <X>4.270003</X>
+        <Y>5</Y>
+        <Z>32.02999</Z>
+      </Position>
+      <Dimention>
+        <X>9.540002</X>
+        <Y>1</Y>
+        <Z>5.060001</Z>
+      </Dimention>
+    </EntityInfo>
+  </Bricks>
+  <BrickBlocker>
+    <EntityInfo>
+      <Position>
+        <X>7.325469</X>
+        <Y>10.70286</Y>
+        <Z>46.25333</Z>
+      </Position>
+      <Dimention>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+      </Dimention>
+    </EntityInfo>
+  </BrickBlocker>
+  <PipeLineCorner>
+    <Position>
+      <X>9.315935</X>
+      <Y>14.98647</Y>
+      <Z>56.37889</Z>
+    </Position>
+    <Dimention>
+      <X>5.690003</X>
+      <Y>1</Y>
+      <Z>1</Z>
+    </Dimention>
+  </PipeLineCorner>
+  <FireFileOrigin>
+    <Position>
+      <X>6.276988</X>
+      <Y>16.52407</Y>
+      <Z>60.86889</Z>
+    </Position>
+    <Dimention>
+      <X>1</X>
+      <Y>1</Y>
+      <Z>3.17</Z>
+    </Dimention>
+  </FireFileOrigin>
+</LevelInfo>
